@@ -1,0 +1,5 @@
+2022-11-22 11:02:01.559  INFO 20756 --- [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-22 11:02:01.562  INFO 20756 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-11-22 11:02:01.563  INFO 20756 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-11-22 11:02:01.569  INFO 20756 --- [http-nio-8080-exec-3] c.s.rahul.controller.StudentController   : Add operation Started
+2022-11-22 11:02:01.569  INFO 20756 --- [http-nio-8080-exec-3] c.s.rahul.controller.StudentController   : Add operation Done
